@@ -4,7 +4,7 @@ A simple React.js project focused on **making a search bar** for a webpage.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 Build an interactive search bar in React that fetches and filters data as a user types—great for dynamic web pages or apps with lots of content.
 
